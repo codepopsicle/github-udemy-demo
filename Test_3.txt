@@ -1,1 +1,2 @@
 Adding test New test text file
+Testing out automatic merging
