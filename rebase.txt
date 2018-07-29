@@ -1,2 +1,4 @@
 rebase practice
 after rebase
+attempt rebase conflict master
+
