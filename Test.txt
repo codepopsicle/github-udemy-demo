@@ -3,3 +3,5 @@ Commiting to delete newbranch
 Preventing fast forward merges
 New chnage
 merge conflict on master
+rebase practice
+
