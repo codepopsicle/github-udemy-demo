@@ -5,3 +5,4 @@ Rebase practice
 stash practice
 trying out Git stash pop
 multiple stashes
+Stashing on branch
